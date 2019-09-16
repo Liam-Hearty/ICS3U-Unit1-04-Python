@@ -7,6 +7,7 @@
 
 def main():
     print("If a rectangle has the dimensions: 3mm x 5mm")
+    print("What are the area and pirimeter of the rectangle?")
     print("")
     print("A=lw")
     print("3x5={}".format(3*5))
@@ -18,4 +19,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
